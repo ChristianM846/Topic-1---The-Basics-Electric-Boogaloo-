@@ -26,7 +26,7 @@
             Console.WriteLine();
 
             // Part 2
-            string quote = "Never gonna give you up. Never gonna let you down. Never gonna run around and desert you.";
+            string quote = "Never gonna give you up. Never gonna let you down.";
 
             Console.WriteLine("Part 2");
             Console.WriteLine($"'{quote}' without any vowels (including y) is:");
