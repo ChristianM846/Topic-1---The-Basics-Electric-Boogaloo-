@@ -39,14 +39,14 @@
             //Part 3
             Console.WriteLine("Part 3");
             Console.WriteLine();
-            Console.WriteLine("                   ,,,, ");
-            Console.WriteLine("             ,;) .';;;;',");
-            Console.WriteLine(" ;;,,_,-.-.,;;'_,|I\\;;;/),,_");
-            Console.WriteLine("  `';;/:|:);{ ;;;|| \\;/ /;;;\\__");
-            Console.WriteLine("      L;/-';/ \\;;\\',/;\\/;;;.') \\");
-            Console.WriteLine("      .:`''` - \\;;'.__/;;;/  . _'-._ ");
-            Console.WriteLine("    .'/   \\     \\;;;;;;/.'_7:.  '). \\_");
-            Console.WriteLine("  .''/     | '._ );}{;//.'    '-:  '.,L");
+            Console.WriteLine("                   ,,,,                            |");
+            Console.WriteLine("             ,;) .';;;;',                          |");
+            Console.WriteLine(" ;;,,_,-.-.,;;'_,|(\\;;;/),,_                       |");
+            Console.WriteLine("  `';;/:|:);{ ;;;|| \\;/ /;;;\\__                    |");
+            Console.WriteLine("      L;/-';/ \\;;\\',/;\\/;;;.') \\                   |");
+            Console.WriteLine("      .:`''` - \\;;'.__/;;;/  . _'-._               |");
+            Console.WriteLine("    .'/   \\     \\;;;;;;/.'_7:.  '). \\_             |");
+            Console.WriteLine("  .''/     | '._ );}{;//.'    '-:  '.,\\            |");
             Console.WriteLine(".'. /       \\  ( |;;;/_/         \\._./;\\   _,");
             Console.WriteLine(" . /        |\\ ( /;;/_/             ';;;\\,;;_,");
             Console.WriteLine(". /         )__(/;;/_/                (;;'''''");
@@ -55,13 +55,14 @@
             Console.WriteLine("       .'     '.  ,'         '-,");
             Console.WriteLine("      /    /   r--,..__       '.\\");
             Console.WriteLine("    .'    '  .'        '--._     ]");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
+            Console.WriteLine("    (     :.(;>        _ .' '- ;/");
+            Console.WriteLine("    |      /:;(    ,_.';(   __.'");
+            Console.WriteLine("     '- -'\"|;:/    (;;;;-'--'");
+            Console.WriteLine("           |;/      ;;(");
+            Console.WriteLine("           ''      /;;|");
+            Console.WriteLine("                   \\;;|");
+            Console.WriteLine("                    \\/");
+
 
         }
     }
