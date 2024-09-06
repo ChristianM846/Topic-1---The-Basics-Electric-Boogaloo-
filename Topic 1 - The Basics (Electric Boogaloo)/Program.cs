@@ -1,5 +1,6 @@
 ﻿namespace Topic_1___The_Basics__Electric_Boogaloo_
 {
+    // Christian - Topic 1 assignment
     internal class Program
     {
         static void Main(string[] args)
@@ -47,22 +48,57 @@
             Console.WriteLine("      .:`''` - \\;;'.__/;;;/  . _'-._               |");
             Console.WriteLine("    .'/   \\     \\;;;;;;/.'_7:.  '). \\_             |");
             Console.WriteLine("  .''/     | '._ );}{;//.'    '-:  '.,\\            |");
-            Console.WriteLine(".'. /       \\  ( |;;;/_/         \\._./;\\   _,");
-            Console.WriteLine(" . /        |\\ ( /;;/_/             ';;;\\,;;_,");
-            Console.WriteLine(". /         )__(/;;/_/                (;;'''''");
-            Console.WriteLine(" /        _;:':;;;;:';-._             );");
-            Console.WriteLine("/        /   \\  `'`   --.'-._         \\/");
-            Console.WriteLine("       .'     '.  ,'         '-,");
-            Console.WriteLine("      /    /   r--,..__       '.\\");
-            Console.WriteLine("    .'    '  .'        '--._     ]");
-            Console.WriteLine("    (     :.(;>        _ .' '- ;/");
-            Console.WriteLine("    |      /:;(    ,_.';(   __.'");
-            Console.WriteLine("     '- -'\"|;:/    (;;;;-'--'");
-            Console.WriteLine("           |;/      ;;(");
-            Console.WriteLine("           ''      /;;|");
-            Console.WriteLine("                   \\;;|");
-            Console.WriteLine("                    \\/");
+            Console.WriteLine(".'. /       \\  ( |;;;/_/         \\._./;\\   _,      |");
+            Console.WriteLine(" . /        |\\ ( /;;/_/             ';;;\\,;;_,     |");
+            Console.WriteLine(". /         )__(/;;/_/                (;;'''''     |");
+            Console.WriteLine(" /        _;:':;;;;:';-._             );           |");
+            Console.WriteLine("/        /   \\  `'`   --.'-._         \\/           |");
+            Console.WriteLine("       .'     '.  ,'         '-,                   |");
+            Console.WriteLine("      /    /   r--,..__       '.\\                  |");
+            Console.WriteLine("    .'    '  .'        '--._     ]                 |");
+            Console.WriteLine("    (     :.(;>        _ .' '- ;/                  |");
+            Console.WriteLine("    |      /:;(    ,_.';(   __.'                   |");
+            Console.WriteLine("     '- -'\"|;:/    (;;;;-'--'                      |");
+            Console.WriteLine("           |;/      ;;(                            |");
+            Console.WriteLine("           ''      /;;|                            |");
+            Console.WriteLine("                   \\;;|                            |");
+            Console.WriteLine("                    \\/                             |");
 
+            Console.WriteLine("              _.--\"\"`-..");
+            Console.WriteLine("            ,'          `.");
+            Console.WriteLine("          ,'          __  `.");
+            Console.WriteLine("         /|          \" __   \\");
+            Console.WriteLine("        , |           / |.   .");
+            Console.WriteLine("        |,'          !_.'|   |");
+            Console.WriteLine("      ,'             '   |   |");
+            Console.WriteLine("     /              |`--'|   |");
+            Console.WriteLine("    |                `---'   |");
+            Console.WriteLine("     .   ,                   |                       ,\".");
+            Console.WriteLine("      ._     '           _'  |                    , ' \\ `");
+            Console.WriteLine("  `.. `.`-...___,...---\"\"    |       __,.        ,`\"   L,|");
+            Console.WriteLine("  |, `- .`._        _,-,.'   .  __.-'-. /        .   ,    \\");
+            Console.WriteLine("-:..     `. `-..--_.,.<       `\"      / `.        `-/ |   .");
+            Console.WriteLine("  `,         \"\"\"\"'     `.              ,'         |   |  ',,");
+            Console.WriteLine("    `.      '            '            /          '    |'. |/");
+            Console.WriteLine("      `.   |              \\       _,-'           |       ''");
+            Console.WriteLine("        `._'               \\   '\"\\                .      |");
+            Console.WriteLine("           |                '     \\                `._  ,'");
+            Console.WriteLine("           |                 '     \\                 .'|");
+            Console.WriteLine("           |                 .      \\                | |");
+            Console.WriteLine("           |                 |       L              ,' |");
+            Console.WriteLine("           `                 |       |             /   '");
+            Console.WriteLine("            \\                |       |           ,'   /");
+            Console.WriteLine("          ,' \\               |  _.._ ,-..___,..-'    ,'");
+            Console.WriteLine("         /     .             .      `!             ,/'");
+            Console.WriteLine("        /       `.          /        .           .'/");
+            Console.WriteLine("       .          `.       /         |        _.'.'");
+            Console.WriteLine("        `.          7`'---'          |------\"'_.'");
+            Console.WriteLine("       _,.`,_     _'                ,''-----\"'");
+            Console.WriteLine("   _,-_    '       `.     .'      ,\\");
+            Console.WriteLine("   -\" /`.         _,'     | _  _  _.|");
+            Console.WriteLine("    \"\"--'---\"\"\"\"\"'        `' '! |! /");
+            Console.WriteLine("                            `\" \" -'");
+            Console.WriteLine("");
 
         }
     }
